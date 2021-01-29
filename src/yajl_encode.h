@@ -18,7 +18,7 @@
 #define __YAJL_ENCODE_H__
 
 #include "yajl_buf.h"
-#include "api/yajl_gen.h"
+#include "yajl/yajl_gen.h"
 
 #ifdef __cplusplus
 extern "C" {
